@@ -5,9 +5,7 @@ $backupPath="D:\$database.BAK"
 $DatabaseFile='C:\sql_jenkins_poc\jenkins_sql_query\'
 $AuthenticationMode="Windows"
 $sqlUserID='SenthilEPVM2017\SenthilEPVS2017'
-#$sqlPassword='M0ns00nR@!ns#20!9'
 $windowsUserName="SenthilEPVM2017\SenthilEPVS2017"
-#$windowsPassword="M0ns00nR@!ns#20!9"
 
 "connected"
 $SqlScriptQueries  = get-content -path "C:\Users\SenthilEPVS2017\.jenkins\workspace\sql_project\sql_query.sql"
