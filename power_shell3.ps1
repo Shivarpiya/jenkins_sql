@@ -6,7 +6,7 @@ $DatabaseFile='C:\sql_jenkins_poc\jenkins_sql_query\'
 $AuthenticationMode="Windows"
 $sqlUserID='SenthilEPVM2017\SenthilEPVS2017'
 $sqlPassword='M0ns00nR@!ns#20!9'
-$windowsUserName="SenthilEPVM2017\SenthilEPVS2017"
+#$windowsUserName="SenthilEPVM2017\SenthilEPVS2017"
 
 
 "connected"
