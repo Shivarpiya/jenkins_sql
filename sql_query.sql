@@ -1,5 +1,5 @@
 SELECT 'some text'
-CREATE TABLE Jenkins_employees.employees(
+CREATE TABLE dbo.employees3(
     emp_id INT,
     job_title VARCHAR(255),
     joining_date DATE,
