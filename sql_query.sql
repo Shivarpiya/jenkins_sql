@@ -1,2 +1,8 @@
 SELECT 'some text'
-CREATE DATABASE Jenkins_employees;
+CREATE TABLE employees (
+    emp_id INT,
+    job_title VARCHAR(255),
+    joining_date DATE,
+    description TEXT,
+    PRIMARY KEY (emp_id)
+);
